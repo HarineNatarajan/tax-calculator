@@ -9,3 +9,4 @@ Features:
 Simple and easy to excute
 If you did n't enter the amount,error button will arises.
 If you touch the info picture,it will show you the details about the particular input area.
+
