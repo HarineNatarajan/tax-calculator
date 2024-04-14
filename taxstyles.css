@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url(currency.jpg);
+    background-image: url(img/currency.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -43,7 +43,7 @@ select {
 
 .error-icon {
     display: none;
-    background-image: url('error.png');
+    background-image: url('img/error.png');
     background-size: contain;
     width: 20px;
     height: 20px;
